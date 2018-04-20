@@ -1,0 +1,4 @@
+# rubocop sample
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
